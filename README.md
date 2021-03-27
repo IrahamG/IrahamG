@@ -2,8 +2,11 @@
 ![Header](https://github.com/ChaosNeon/ChaosNeon/blob/main/header2.png "Header")
 
 # Hello there! My name is Iraham 👋
-I'm a junior full-stack web developer, student in Computer Systems, and also content creator. I'm always looking for ways to improve my work and my prjects, that means I'm always learning new things. Im currently working on my portfolio and imporving my skills in back-end development. I want to write my own blog in the future abuout the things I create or learn. In my free time I draw digitally, watch youtube videos about videogames or watch series.
-Things I'm doing right now: ...
+I'm a junior developer, student in Computer Systems, and also content creator. I'm always looking for ways to improve my work and my projects, that means I'm always learning new things. Im currently working on my portfolio and imporving my skills in back-end development. I want to write my own blog in the future abuout the things I create or learn. In my free time I draw digitally, watch youtube videos about videogames or watch series.
+
+Things I'm doing right now: Building my web-developer portfolio, a Casino-themed Discord bot and learning React.js
+
+Languajes I speak: Spanish 🇲🇽 | English 🇺🇸 | And currently learning Deutsch 🇩🇪
 <!--
 **ChaosNeon/ChaosNeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
