@@ -1,8 +1,8 @@
 
-![Header](https://github.com/ChaosNeon/ChaosNeon/blob/main/header2.png "Header")
+![Header](https://github.com/ChaosNeon/ChaosNeon/blob/main/ucBlinkie.gif "Under Construction")
 
 # Hey there!
-I'm a junior developer, student in Computer Systems, and also somewhat of an artist. I'm always looking for ways to improve my work and my projects, that means I'm always learning new things. Im currently working on my portfolio and imporving my skills in web development and data science. I want to write my own blog in the future abuout the things I create or learn. I love games and puzzles, when I'm not doing those, I'm usually reading or drawing.
+![Under Construction](https://github.com/ChaosNeon/ChaosNeon/blob/main/ucBlinkie.gif "Under Construction")
 
 Languajes I speak: Spanish 🇲🇽 | English 🇺🇸 | And currently learning Deutsch 🇩🇪
 <!--
